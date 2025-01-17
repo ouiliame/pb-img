@@ -36,5 +36,4 @@ Thumbs.db
 
 # Project specific
 output_*.png
-*.json
 *.safetensors
